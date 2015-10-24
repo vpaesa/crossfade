@@ -1,0 +1,1 @@
+A simple command line utility to mix two sounds in a way that the first one reduces its volume while we mix it with the second.
